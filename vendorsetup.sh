@@ -1,13 +1,19 @@
 add_lunch_combo metallium_armani-userdebug
 add_lunch_combo metallium_bacon-userdebug
-add lunch_combo metallium_ferrari-userdebug
-add_lunch_combo metallium_jactivelte-userdebug
-add_lunch_combo metallium_nicki-userdebug
-add_lunch_combo metallium_n7100-userdebug
-add_lunch_combo metallium_mako-userdebug
-add_lunch_combo metallium_sprout-userdebug
-add_lunch_combo metallium_sprout_b-userdebug
-add_lunch_combo metallium_find7-userdebug
+add_lunch_combo metallium_cancro-userdebug
 add_lunch_combo metallium_d802-userdebug
 add_lunch_combo metallium_falcon-userdebug
+add lunch_combo metallium_ferrari-userdebug
+add lunch_combo metallium_find5-userdebug
+add lunch_combo metallium_find7-userdebug
+add_lunch_combo metallium_jactivelte-userdebug
+add_lunch_combo metallium_ks01lte-userdebug
+add_lunch_combo metallium_lettuce-userdebug
+add_lunch_combo metallium_mako-userdebug
+add_lunch_combo metallium_n7100-userdebug
+add_lunch_combo metallium_nicki-userdebug
+add_lunch_combo metallium_oneplus2-userdebug
+add_lunch_combo metallium_sprout-userdebug
+add_lunch_combo metallium_sprout_b-userdebug
 add lunch_combo metallium_tilapia-userdebug
+add lunch_combo metallium_tomato-userdebug
