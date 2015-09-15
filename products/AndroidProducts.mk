@@ -33,6 +33,10 @@ ifeq (metallium_falcon,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/metallium_falcon.mk
 endif
 
+ifeq (metallium_ferrari,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/metallium_ferrari.mk
+endif
+
 ifeq (metallium_find5,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/metallium_find5.mk
 endif
